@@ -1,0 +1,12 @@
+langgraph
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+python-dotenv
+langgraph-checkpoint-sqlite
+faster-whisper
+streamlit
+pydub
+fastapi 
+uvicorn
